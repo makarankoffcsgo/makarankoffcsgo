@@ -1,11 +1,9 @@
-- 👋 Всемхай, с вами @makarankoffcsgo гай
-- 👀 Я интирисуюсь таксированиев в минске по выходным ...
-- 🌱 В данный момент я ищу денег на диплом ...
+- 👋 Всемхай, с вами @makarankoffcsgo
 - 📫 Как связаться со мной ...
-- * Инстаграм
-- * ВК
-- * Стим
-- * Онлифанс
+- * Инстаграм - makarenkoilya
+- * ВК  settingss4
+- * Стим steamn 2950mmir
+
 
 <!---
 makarankoffcsgo/makarankoffcsgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
