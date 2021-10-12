@@ -1,7 +1,7 @@
 - 👋 Всемхай, с вами @makarankoffcsgo
 - 📫 Как связаться со мной ...
-- * Инстаграм - instagram.com/makarenkoilya
-- * ВК  - vk.com/settings4
+- * Инстаграм - https://instagram.com/makarenkoilya
+- * ВК  - https://vk.com/settings4
 - * Стим steam - https://steamcommunity.com/id/2950mmr
 
 # GachiFedosey
